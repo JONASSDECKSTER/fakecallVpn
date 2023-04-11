@@ -2,7 +2,7 @@
   "AdsController": {
        
     
-    "VPN_URL"              : "https://drive.google.com/uc?export=download&id=12TiB8Pp5ulxqQ84WgUusE2l1-JVFI02p",
+    "VPN_URL"              : "https://raw.githubusercontent.com/JONASSDECKSTER/jjk/main/vpnController%20TEST%20(2).json",
     
     
     
@@ -11,11 +11,11 @@
     
     
     
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN",
       "select_backup_ads": "APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner": "",
+      "main_ads_banner": "6155435f7ec04c17",
+      "main_ads_intertitial": "cb1937f70cb1e693",
+      "backup_ads_banner": "cb1937f70cb1e693",
       "backup_ads_intertitial": "",
       "initialize_sdk": "",
       "initialize_sdk_backup_ads": "",
